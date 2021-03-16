@@ -1,3 +1,5 @@
+![Screenshot](screenshot.png)
+
 # ex_preferred_orientations
 
 A new Flutter project.
